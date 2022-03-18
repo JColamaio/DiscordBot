@@ -1,2 +1,2 @@
 # DiscordBot
-a discord bot 
+El bot más rouni entre los roukis.
